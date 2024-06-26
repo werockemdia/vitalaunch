@@ -1,0 +1,404 @@
+[19-Apr-2024 03:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Apr-2024 04:53:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[21-Apr-2024 09:59:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[21-Apr-2024 09:59:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[21-Apr-2024 09:59:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[21-Apr-2024 09:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[21-Apr-2024 09:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[21-Apr-2024 10:00:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Apr-2024 10:00:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[21-Apr-2024 10:00:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[21-Apr-2024 10:00:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[21-Apr-2024 10:00:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[21-Apr-2024 10:00:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[21-Apr-2024 10:00:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[21-Apr-2024 10:00:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[21-Apr-2024 10:00:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[21-Apr-2024 10:00:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[21-Apr-2024 10:00:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[21-Apr-2024 10:00:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[21-Apr-2024 10:00:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[21-Apr-2024 10:00:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[21-Apr-2024 10:00:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[22-Apr-2024 08:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[23-Apr-2024 05:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[23-Apr-2024 18:49:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[24-Apr-2024 02:53:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[24-Apr-2024 03:19:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[24-Apr-2024 21:24:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[25-Apr-2024 13:17:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[25-Apr-2024 14:36:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[25-Apr-2024 16:54:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[25-Apr-2024 20:22:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[25-Apr-2024 22:09:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Apr-2024 22:48:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[26-Apr-2024 00:07:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[26-Apr-2024 01:51:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[26-Apr-2024 05:04:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[26-Apr-2024 17:14:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[27-Apr-2024 06:30:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Apr-2024 07:55:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[28-Apr-2024 07:02:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[28-Apr-2024 07:02:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[28-Apr-2024 14:49:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[29-Apr-2024 14:50:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[30-Apr-2024 05:03:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[30-Apr-2024 15:49:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-May-2024 05:53:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[02-May-2024 06:42:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[02-May-2024 17:05:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[02-May-2024 17:50:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[03-May-2024 04:57:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[07-May-2024 04:38:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-May-2024 07:57:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[13-May-2024 07:57:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[13-May-2024 07:57:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[13-May-2024 07:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[13-May-2024 07:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[13-May-2024 07:57:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-May-2024 07:57:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[13-May-2024 07:58:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[13-May-2024 07:58:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[13-May-2024 07:58:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[13-May-2024 07:58:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[13-May-2024 07:58:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[13-May-2024 07:58:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[13-May-2024 07:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[13-May-2024 07:58:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[13-May-2024 07:58:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[13-May-2024 07:58:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[13-May-2024 07:58:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[13-May-2024 07:58:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[13-May-2024 07:58:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[23-May-2024 04:38:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[25-May-2024 00:21:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[27-May-2024 12:50:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[29-May-2024 10:36:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[07-Jun-2024 21:53:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[12-Jun-2024 03:56:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[13-Jun-2024 19:59:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[13-Jun-2024 20:16:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[13-Jun-2024 21:32:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[13-Jun-2024 22:26:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[13-Jun-2024 22:38:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Jun-2024 22:47:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[13-Jun-2024 22:58:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[13-Jun-2024 23:50:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[14-Jun-2024 00:52:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[14-Jun-2024 03:03:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[14-Jun-2024 03:12:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[14-Jun-2024 07:24:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[14-Jun-2024 09:17:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[14-Jun-2024 22:28:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[15-Jun-2024 21:59:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[16-Jun-2024 11:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[16-Jun-2024 15:26:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[16-Jun-2024 21:02:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[17-Jun-2024 11:06:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[20-Jun-2024 19:40:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[22-Jun-2024 12:51:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[26-Jun-2024 04:37:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[26-Jun-2024 06:56:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18

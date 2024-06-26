@@ -1,0 +1,56 @@
+[21-Apr-2024 10:20:50 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[13-May-2024 08:19:13 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[06-Jun-2024 19:54:23 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[06-Jun-2024 19:54:23 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[06-Jun-2024 19:55:47 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[06-Jun-2024 19:55:48 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[07-Jun-2024 18:46:29 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[07-Jun-2024 18:46:29 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[07-Jun-2024 18:48:04 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[07-Jun-2024 18:48:05 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[12-Jun-2024 12:23:37 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[12-Jun-2024 12:23:37 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[12-Jun-2024 12:25:33 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[12-Jun-2024 12:25:36 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10

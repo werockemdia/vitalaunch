@@ -1,0 +1,56 @@
+[21-Apr-2024 10:20:54 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[13-May-2024 08:19:17 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[06-Jun-2024 19:56:22 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[06-Jun-2024 19:56:22 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[06-Jun-2024 19:56:52 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[06-Jun-2024 19:56:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[07-Jun-2024 18:48:23 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[07-Jun-2024 18:48:40 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[07-Jun-2024 18:50:04 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[07-Jun-2024 18:50:04 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[12-Jun-2024 12:25:57 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[12-Jun-2024 12:25:58 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[12-Jun-2024 12:27:43 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12
+[12-Jun-2024 12:27:43 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core32/Curve25519/H.php on line 12

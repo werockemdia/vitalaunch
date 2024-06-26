@@ -1,0 +1,216 @@
+[21-Apr-2024 09:50:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/typography.php on line 646
+[21-Apr-2024 09:50:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/dimensions.php on line 87
+[21-Apr-2024 09:50:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[21-Apr-2024 09:50:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[21-Apr-2024 09:50:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/vitalaunch/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/settings.php on line 151
+[21-Apr-2024 09:50:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/position.php on line 145
+[21-Apr-2024 09:50:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/vitalaunch/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/elements.php on line 231
+[21-Apr-2024 09:50:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[21-Apr-2024 09:50:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/spacing.php on line 83
+[21-Apr-2024 09:50:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/duotone.php on line 36
+[21-Apr-2024 09:50:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/shadow.php on line 76
+[21-Apr-2024 09:50:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/layout.php on line 851
+[21-Apr-2024 09:51:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/colors.php on line 138
+[21-Apr-2024 09:51:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/border.php on line 170
+[21-Apr-2024 09:51:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/align.php on line 59
+[13-May-2024 07:48:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/typography.php on line 646
+[13-May-2024 07:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/dimensions.php on line 87
+[13-May-2024 07:48:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[13-May-2024 07:48:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[13-May-2024 07:48:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/vitalaunch/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/settings.php on line 151
+[13-May-2024 07:48:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/position.php on line 145
+[13-May-2024 07:48:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/vitalaunch/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/elements.php on line 231
+[13-May-2024 07:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[13-May-2024 07:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/spacing.php on line 83
+[13-May-2024 07:49:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/duotone.php on line 36
+[13-May-2024 07:49:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/shadow.php on line 76
+[13-May-2024 07:49:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/layout.php on line 851
+[13-May-2024 07:49:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/colors.php on line 138
+[13-May-2024 07:49:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/border.php on line 170
+[13-May-2024 07:49:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/align.php on line 59
+[06-Jun-2024 19:34:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[06-Jun-2024 19:34:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[06-Jun-2024 19:38:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[06-Jun-2024 19:38:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[07-Jun-2024 18:20:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[07-Jun-2024 18:20:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[07-Jun-2024 18:23:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[07-Jun-2024 18:23:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[12-Jun-2024 11:54:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[12-Jun-2024 11:54:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[12-Jun-2024 12:00:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[12-Jun-2024 12:00:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[12-Jun-2024 18:08:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[13-Jun-2024 01:50:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[14-Jun-2024 02:57:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/align.php on line 59
+[14-Jun-2024 03:06:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/shadow.php on line 76
+[14-Jun-2024 03:18:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/vitalaunch/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/elements.php on line 231
+[14-Jun-2024 03:30:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/vitalaunch/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/elements.php on line 231
+[14-Jun-2024 03:44:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/align.php on line 59
+[14-Jun-2024 04:01:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/shadow.php on line 76
+[14-Jun-2024 04:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/position.php on line 145
+[14-Jun-2024 12:01:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/border.php on line 170
+[22-Jun-2024 15:22:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/background.php on line 111
+[26-Jun-2024 01:43:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/vitalaunch/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-supports/position.php on line 145

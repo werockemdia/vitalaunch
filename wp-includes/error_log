@@ -1,0 +1,1431 @@
+[12-Apr-2024 10:36:50 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[12-Apr-2024 12:19:05 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[12-Apr-2024 15:43:44 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[12-Apr-2024 16:55:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/registration-functions.php on line 9
+[12-Apr-2024 18:26:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-oembed.php on line 12
+[12-Apr-2024 23:29:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/script-loader.php on line 20
+[13-Apr-2024 01:52:50 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[13-Apr-2024 01:59:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/wp-diff.php on line 13
+[13-Apr-2024 02:20:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/meta.php on line 13
+[13-Apr-2024 03:58:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-json.php on line 2
+[13-Apr-2024 04:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/vitalaunch/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/template-loader.php on line 7
+[13-Apr-2024 05:47:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[13-Apr-2024 10:25:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-atom.php on line 8
+[13-Apr-2024 18:29:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-scripts.php on line 11
+[13-Apr-2024 20:25:44 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[13-Apr-2024 21:35:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/vitalaunch/public_html/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/update.php on line 1149
+[13-Apr-2024 22:15:05 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[16-Apr-2024 00:01:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-json.php on line 2
+[16-Apr-2024 07:17:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/compat.php on line 338
+[16-Apr-2024 09:08:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/cache.php on line 12
+[16-Apr-2024 20:59:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss2-comments.php on line 8
+[18-Apr-2024 09:59:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/cache.php on line 12
+[18-Apr-2024 18:44:51 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-page.php on line 17
+[19-Apr-2024 02:14:12 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[19-Apr-2024 03:16:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http.php on line 11
+[19-Apr-2024 03:16:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php on line 18
+[19-Apr-2024 03:16:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php on line 18
+[19-Apr-2024 03:16:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/vitalaunch/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/template-canvas.php on line 12
+[21-Apr-2024 09:35:18 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[21-Apr-2024 09:35:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[21-Apr-2024 09:35:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-settings.php on line 35
+[21-Apr-2024 09:35:50 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[21-Apr-2024 09:35:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-smtp.php on line 6
+[21-Apr-2024 09:36:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-json.php on line 2
+[21-Apr-2024 09:36:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-http.php on line 11
+[21-Apr-2024 09:36:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-feed.php on line 10
+[21-Apr-2024 09:36:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/vitalaunch/public_html/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/vars.php on line 23
+[21-Apr-2024 09:36:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/script-loader.php on line 20
+[21-Apr-2024 09:36:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/meta.php on line 13
+[21-Apr-2024 09:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/date.php on line 11
+[21-Apr-2024 09:37:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http.php on line 11
+[21-Apr-2024 09:37:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/vitalaunch/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[21-Apr-2024 09:37:54 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[21-Apr-2024 09:38:14 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[21-Apr-2024 09:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/registration.php on line 9
+[21-Apr-2024 09:38:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-snoopy.php on line 6
+[21-Apr-2024 09:38:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-oembed.php on line 12
+[21-Apr-2024 09:39:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[21-Apr-2024 09:39:34 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[21-Apr-2024 09:39:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-setting.php on line 964
+[21-Apr-2024 09:39:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-section.php on line 412
+[21-Apr-2024 09:40:14 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[21-Apr-2024 09:40:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/vitalaunch/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/template-loader.php on line 7
+[21-Apr-2024 09:40:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/vitalaunch/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/template-canvas.php on line 12
+[21-Apr-2024 09:40:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/default-widgets.php on line 11
+[21-Apr-2024 09:40:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/vitalaunch/public_html/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/default-filters.php on line 22
+[21-Apr-2024 09:40:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-styles.php on line 11
+[21-Apr-2024 09:41:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php on line 18
+[21-Apr-2024 09:41:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-simplepie.php on line 5
+[21-Apr-2024 09:41:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/wp-diff.php on line 13
+[21-Apr-2024 09:41:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/vitalaunch/public_html/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/update.php on line 1149
+[21-Apr-2024 09:41:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/session.php on line 9
+[21-Apr-2024 09:42:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/locale.php on line 11
+[21-Apr-2024 09:42:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/compat.php on line 338
+[21-Apr-2024 09:42:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/embed-template.php on line 11
+[21-Apr-2024 09:43:10 UTC] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/vitalaunch/public_html/wp-includes/class-requests.php on line 24
+[21-Apr-2024 09:43:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/vitalaunch/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns.php on line 9
+[21-Apr-2024 09:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/registration-functions.php on line 9
+[21-Apr-2024 09:43:26 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[21-Apr-2024 09:44:10 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-comment.php on line 17
+[21-Apr-2024 09:44:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-dependencies.php on line 11
+[21-Apr-2024 09:44:34 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[21-Apr-2024 09:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[21-Apr-2024 09:45:14 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-category.php on line 17
+[21-Apr-2024 09:45:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/functions.php on line 8
+[21-Apr-2024 09:45:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss2.php on line 8
+[21-Apr-2024 09:45:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-atom.php on line 8
+[21-Apr-2024 09:45:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-IXR.php on line 42
+[21-Apr-2024 09:45:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/rss.php on line 19
+[21-Apr-2024 09:46:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/vitalaunch/public_html/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/media.php on line 2317
+[21-Apr-2024 09:46:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/cache.php on line 12
+[21-Apr-2024 09:46:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/vitalaunch/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-default-filters.php on line 16
+[21-Apr-2024 09:46:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss2-comments.php on line 8
+[21-Apr-2024 09:46:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-atom-comments.php on line 8
+[21-Apr-2024 09:47:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[21-Apr-2024 09:47:06 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[21-Apr-2024 09:47:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-panel.php on line 411
+[21-Apr-2024 09:47:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/spl-autoload-compat.php on line 14
+[21-Apr-2024 09:47:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[21-Apr-2024 09:48:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php on line 11
+[21-Apr-2024 09:48:19 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-page.php on line 17
+[21-Apr-2024 09:48:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-scripts.php on line 11
+[21-Apr-2024 09:48:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php on line 18
+[21-Apr-2024 09:49:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BLOGUPLOADDIR" in /home/vitalaunch/public_html/wp-includes/ms-files.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-files.php on line 26
+[21-Apr-2024 09:49:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-blogs.php on line 11
+[21-Apr-2024 09:49:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss.php on line 8
+[21-Apr-2024 09:49:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rdf.php on line 8
+[21-Apr-2024 14:10:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-control.php:709
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-control.php on line 709
+[23-Apr-2024 00:09:54 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-page.php on line 17
+[27-Apr-2024 06:28:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http.php on line 11
+[27-Apr-2024 06:28:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php on line 18
+[27-Apr-2024 06:29:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php on line 18
+[27-Apr-2024 06:29:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/vitalaunch/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/template-canvas.php on line 12
+[30-Apr-2024 03:02:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss2-comments.php on line 8
+[07-May-2024 04:37:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http.php on line 11
+[07-May-2024 04:37:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php on line 18
+[07-May-2024 04:37:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php on line 18
+[07-May-2024 04:37:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/vitalaunch/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/template-canvas.php on line 12
+[13-May-2024 07:33:19 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[13-May-2024 07:33:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[13-May-2024 07:33:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-settings.php on line 35
+[13-May-2024 07:33:49 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[13-May-2024 07:33:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-smtp.php on line 6
+[13-May-2024 07:34:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-json.php on line 2
+[13-May-2024 07:34:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-http.php on line 11
+[13-May-2024 07:34:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-feed.php on line 10
+[13-May-2024 07:34:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/vitalaunch/public_html/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/vars.php on line 23
+[13-May-2024 07:34:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/script-loader.php on line 20
+[13-May-2024 07:34:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/meta.php on line 13
+[13-May-2024 07:35:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/date.php on line 11
+[13-May-2024 07:35:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http.php on line 11
+[13-May-2024 07:35:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/vitalaunch/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[13-May-2024 07:35:55 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[13-May-2024 07:36:13 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[13-May-2024 07:36:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/registration.php on line 9
+[13-May-2024 07:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-snoopy.php on line 6
+[13-May-2024 07:36:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-oembed.php on line 12
+[13-May-2024 07:37:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[13-May-2024 07:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[13-May-2024 07:38:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-setting.php on line 964
+[13-May-2024 07:38:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-section.php on line 412
+[13-May-2024 07:38:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-control.php:709
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-control.php on line 709
+[13-May-2024 07:38:30 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[13-May-2024 07:38:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/vitalaunch/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/template-loader.php on line 7
+[13-May-2024 07:38:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/vitalaunch/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/template-canvas.php on line 12
+[13-May-2024 07:39:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/default-widgets.php on line 11
+[13-May-2024 07:39:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/vitalaunch/public_html/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/default-filters.php on line 22
+[13-May-2024 07:39:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-styles.php on line 11
+[13-May-2024 07:39:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php on line 18
+[13-May-2024 07:39:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-simplepie.php on line 5
+[13-May-2024 07:39:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/wp-diff.php on line 13
+[13-May-2024 07:40:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/vitalaunch/public_html/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/update.php on line 1149
+[13-May-2024 07:40:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/session.php on line 9
+[13-May-2024 07:40:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/locale.php on line 11
+[13-May-2024 07:40:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/compat.php on line 338
+[13-May-2024 07:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/embed-template.php on line 11
+[13-May-2024 07:41:25 UTC] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/vitalaunch/public_html/wp-includes/class-requests.php on line 24
+[13-May-2024 07:41:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/vitalaunch/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns.php on line 9
+[13-May-2024 07:41:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/registration-functions.php on line 9
+[13-May-2024 07:41:41 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[13-May-2024 07:42:25 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-comment.php on line 17
+[13-May-2024 07:42:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-dependencies.php on line 11
+[13-May-2024 07:42:49 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[13-May-2024 07:43:25 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[13-May-2024 07:43:29 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-category.php on line 17
+[13-May-2024 07:43:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/functions.php on line 8
+[13-May-2024 07:43:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss2.php on line 8
+[13-May-2024 07:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-atom.php on line 8
+[13-May-2024 07:43:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-IXR.php on line 42
+[13-May-2024 07:44:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/rss.php on line 19
+[13-May-2024 07:44:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/vitalaunch/public_html/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/media.php on line 2317
+[13-May-2024 07:44:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/cache.php on line 12
+[13-May-2024 07:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/vitalaunch/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-default-filters.php on line 16
+[13-May-2024 07:44:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss2-comments.php on line 8
+[13-May-2024 07:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-atom-comments.php on line 8
+[13-May-2024 07:45:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[13-May-2024 07:45:21 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[13-May-2024 07:45:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-panel.php on line 411
+[13-May-2024 07:45:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/spl-autoload-compat.php on line 14
+[13-May-2024 07:46:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[13-May-2024 07:46:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php on line 11
+[13-May-2024 07:46:33 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-page.php on line 17
+[13-May-2024 07:46:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-scripts.php on line 11
+[13-May-2024 07:47:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-May-2024 07:47:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BLOGUPLOADDIR" in /home/vitalaunch/public_html/wp-includes/ms-files.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-files.php on line 26
+[13-May-2024 07:47:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-blogs.php on line 11
+[13-May-2024 07:47:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss.php on line 8
+[13-May-2024 07:48:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rdf.php on line 8
+[16-May-2024 03:36:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[16-May-2024 13:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/vitalaunch/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns.php on line 9
+[16-May-2024 16:07:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-smtp.php on line 6
+[16-May-2024 16:34:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rdf.php on line 8
+[16-May-2024 17:29:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-scripts.php on line 11
+[16-May-2024 18:37:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/default-widgets.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/default-widgets.php on line 11
+[16-May-2024 19:41:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-section.php on line 412
+[16-May-2024 21:04:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[17-May-2024 00:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-atom-comments.php on line 8
+[17-May-2024 02:16:51 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[17-May-2024 04:28:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php on line 18
+[17-May-2024 05:51:57 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[17-May-2024 06:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/registration.php on line 9
+[17-May-2024 07:20:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-dependencies.php on line 11
+[17-May-2024 07:48:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-snoopy.php on line 6
+[17-May-2024 10:07:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-atom.php on line 8
+[17-May-2024 11:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/rss.php on line 19
+[17-May-2024 19:09:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-styles.php on line 11
+[18-May-2024 09:18:03 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[18-May-2024 09:57:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/registration-functions.php on line 9
+[18-May-2024 12:54:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-control.php:709
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-control.php on line 709
+[18-May-2024 17:31:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/vitalaunch/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/template-loader.php on line 7
+[20-May-2024 01:37:17 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[21-May-2024 12:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/registration.php on line 9
+[21-May-2024 16:52:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/compat.php on line 338
+[25-May-2024 00:21:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-IXR.php on line 42
+[25-May-2024 00:21:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http.php on line 11
+[29-May-2024 11:40:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php on line 11
+[30-May-2024 13:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[30-May-2024 13:57:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/vitalaunch/public_html/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/media.php on line 2317
+[31-May-2024 13:30:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http.php on line 11
+[31-May-2024 14:36:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-IXR.php on line 42
+[03-Jun-2024 21:32:56 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[06-Jun-2024 17:20:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/vitalaunch/public_html/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/media.php on line 2317
+[07-Jun-2024 19:46:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php on line 18
+[07-Jun-2024 21:18:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-settings.php on line 35
+[07-Jun-2024 22:20:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php on line 11
+[11-Jun-2024 11:30:50 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-comment.php on line 17
+[11-Jun-2024 11:44:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-setting.php on line 964
+[11-Jun-2024 12:08:13 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[11-Jun-2024 12:08:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/wp-diff.php on line 13
+[11-Jun-2024 12:31:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-json.php on line 2
+[11-Jun-2024 13:24:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[11-Jun-2024 15:10:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/vitalaunch/public_html/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/media.php on line 2317
+[11-Jun-2024 16:38:33 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[11-Jun-2024 19:28:13 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[11-Jun-2024 20:07:39 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[12-Jun-2024 00:11:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-feed.php on line 10
+[12-Jun-2024 08:17:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php on line 18
+[12-Jun-2024 15:43:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/spl-autoload-compat.php on line 14
+[12-Jun-2024 22:53:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/compat.php on line 338
+[13-Jun-2024 01:42:32 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[13-Jun-2024 02:06:01 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[13-Jun-2024 02:25:38 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[13-Jun-2024 02:29:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-panel.php on line 411
+[13-Jun-2024 02:41:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/script-loader.php on line 20
+[13-Jun-2024 02:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[13-Jun-2024 02:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[13-Jun-2024 03:04:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/wp-diff.php on line 13
+[13-Jun-2024 03:19:33 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[13-Jun-2024 03:30:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/registration-functions.php on line 9
+[13-Jun-2024 03:45:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-settings.php on line 35
+[13-Jun-2024 04:46:19 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[13-Jun-2024 05:01:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-setting.php on line 964
+[13-Jun-2024 05:12:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-control.php:709
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-control.php on line 709
+[13-Jun-2024 05:27:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-simplepie.php on line 5
+[13-Jun-2024 07:18:46 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[13-Jun-2024 07:21:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-blogs.php on line 11
+[13-Jun-2024 08:51:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/vitalaunch/public_html/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/update.php on line 1149
+[13-Jun-2024 09:15:53 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-comment.php on line 17
+[13-Jun-2024 10:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/vitalaunch/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/template-loader.php on line 7
+[13-Jun-2024 11:08:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-section.php on line 412
+[13-Jun-2024 11:16:23 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[13-Jun-2024 11:19:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/vitalaunch/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns.php on line 9
+[13-Jun-2024 11:21:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/vitalaunch/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[13-Jun-2024 11:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-oembed.php on line 12
+[13-Jun-2024 11:35:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php on line 11
+[13-Jun-2024 13:42:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-simplepie.php on line 5
+[13-Jun-2024 15:12:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-settings.php on line 35
+[13-Jun-2024 15:14:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-atom-comments.php on line 8
+[13-Jun-2024 15:22:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/vitalaunch/public_html/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/update.php on line 1149
+[13-Jun-2024 15:22:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/registration.php on line 9
+[13-Jun-2024 15:22:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-setting.php:964
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-setting.php on line 964
+[13-Jun-2024 15:23:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/vitalaunch/public_html/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/vars.php on line 23
+[13-Jun-2024 15:25:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/wp-diff.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/wp-diff.php on line 13
+[13-Jun-2024 15:28:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/functions.php on line 8
+[13-Jun-2024 15:31:39 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[13-Jun-2024 15:36:47 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-comment.php on line 17
+[13-Jun-2024 15:44:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-panel.php on line 411
+[13-Jun-2024 16:01:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/registration-functions.php on line 9
+[13-Jun-2024 16:05:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-IXR.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-IXR.php on line 42
+[13-Jun-2024 17:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/embed-template.php on line 11
+[13-Jun-2024 17:12:57 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[13-Jun-2024 17:14:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-atom.php on line 8
+[13-Jun-2024 17:22:07 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-category.php on line 17
+[13-Jun-2024 17:43:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-snoopy.php on line 6
+[13-Jun-2024 17:49:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BLOGUPLOADDIR" in /home/vitalaunch/public_html/wp-includes/ms-files.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-files.php on line 26
+[13-Jun-2024 17:49:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/meta.php on line 13
+[13-Jun-2024 17:49:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[13-Jun-2024 18:54:53 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[13-Jun-2024 19:08:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-json.php on line 2
+[13-Jun-2024 19:12:57 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[13-Jun-2024 19:12:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http.php on line 11
+[13-Jun-2024 19:21:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-smtp.php on line 6
+[13-Jun-2024 19:42:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rdf.php on line 8
+[13-Jun-2024 19:42:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/vitalaunch/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/template-canvas.php on line 12
+[13-Jun-2024 20:02:07 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[13-Jun-2024 20:13:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[13-Jun-2024 20:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss.php on line 8
+[13-Jun-2024 21:03:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-settings.php on line 35
+[13-Jun-2024 21:16:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/vitalaunch/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns.php on line 9
+[13-Jun-2024 21:20:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[13-Jun-2024 21:22:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-oembed.php on line 12
+[13-Jun-2024 21:24:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss2-comments.php on line 8
+[13-Jun-2024 21:29:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-scripts.php on line 18
+[13-Jun-2024 21:45:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/rss.php on line 19
+[13-Jun-2024 21:50:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-section.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-section.php on line 412
+[13-Jun-2024 21:52:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/vitalaunch/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/template-loader.php on line 7
+[13-Jun-2024 21:56:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-styles.php on line 18
+[13-Jun-2024 21:57:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/session.php on line 9
+[13-Jun-2024 21:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss2.php on line 8
+[13-Jun-2024 22:10:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/cache.php on line 12
+[13-Jun-2024 22:10:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/vitalaunch/public_html/wp-includes/default-filters.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/default-filters.php on line 22
+[13-Jun-2024 22:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/locale.php on line 11
+[13-Jun-2024 22:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-styles.php on line 11
+[13-Jun-2024 22:31:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/vitalaunch/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[13-Jun-2024 22:39:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-scripts.php on line 11
+[13-Jun-2024 22:40:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/vitalaunch/public_html/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/media.php on line 2317
+[13-Jun-2024 22:48:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php on line 11
+[13-Jun-2024 23:02:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[13-Jun-2024 23:02:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/vitalaunch/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-default-filters.php on line 16
+[13-Jun-2024 23:07:48 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[13-Jun-2024 23:09:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-control.php:709
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-control.php on line 709
+[13-Jun-2024 23:24:04 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_Sanitize" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 19
+[14-Jun-2024 00:29:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/script-loader.php on line 20
+[14-Jun-2024 00:38:30 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[14-Jun-2024 02:18:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-feed.php on line 10
+[14-Jun-2024 02:48:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss2.php on line 8
+[14-Jun-2024 02:55:16 UTC] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/vitalaunch/public_html/wp-includes/class-requests.php on line 24
+[14-Jun-2024 03:00:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-dependencies.php on line 11
+[14-Jun-2024 04:19:51 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[14-Jun-2024 05:32:17 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 17
+[14-Jun-2024 06:32:35 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-page.php on line 17
+[14-Jun-2024 06:42:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/date.php on line 11
+[14-Jun-2024 07:08:03 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-page.php on line 17
+[14-Jun-2024 07:32:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/date.php on line 11
+[14-Jun-2024 15:16:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/vitalaunch/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/template-canvas.php on line 12
+[14-Jun-2024 18:10:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/spl-autoload-compat.php on line 14
+[14-Jun-2024 20:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rdf.php on line 8
+[15-Jun-2024 03:15:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/compat.php:338
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/compat.php on line 338
+[15-Jun-2024 07:34:09 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[15-Jun-2024 10:46:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-http.php on line 11
+[15-Jun-2024 11:03:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-blogs.php on line 11
+[15-Jun-2024 14:37:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-simplepie.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-simplepie.php on line 5
+[15-Jun-2024 18:19:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-atom.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-atom.php on line 8
+[15-Jun-2024 18:19:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-atom-comments.php on line 8
+[15-Jun-2024 19:40:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/vitalaunch/public_html/wp-includes/vars.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/vars.php on line 23
+[15-Jun-2024 19:46:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/vitalaunch/public_html/wp-includes/update.php:1149
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/update.php on line 1149
+[15-Jun-2024 19:54:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/functions.php on line 8
+[15-Jun-2024 20:20:20 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[15-Jun-2024 20:47:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/class-wp-customize-panel.php:411
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-customize-panel.php on line 411
+[15-Jun-2024 21:48:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss2.php on line 8
+[16-Jun-2024 07:07:39 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/vitalaunch/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-walker-category.php on line 17
+[16-Jun-2024 10:04:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BLOGUPLOADDIR" in /home/vitalaunch/public_html/wp-includes/ms-files.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-files.php on line 26
+[17-Jun-2024 00:04:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/meta.php on line 13
+[17-Jun-2024 09:55:21 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie_File" not found in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[17-Jun-2024 19:35:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-blogs.php on line 11
+[17-Jun-2024 23:47:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[18-Jun-2024 10:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/embed-template.php on line 11
+[18-Jun-2024 12:29:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-smtp.php on line 6
+[18-Jun-2024 13:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rdf.php on line 8
+[18-Jun-2024 20:49:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/date.php on line 11
+[19-Jun-2024 01:34:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-scripts.php on line 11
+[19-Jun-2024 01:51:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_shortcode() in /home/vitalaunch/public_html/wp-includes/media.php:2317
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/media.php on line 2317
+[19-Jun-2024 04:00:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/rss.php on line 19
+[19-Jun-2024 09:48:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class.wp-dependencies.php on line 11
+[19-Jun-2024 09:55:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/nav-menu-template.php on line 11
+[22-Jun-2024 07:56:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/ms-blogs.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-blogs.php on line 11
+[25-Jun-2024 05:54:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/vitalaunch/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/feed-rss2.php on line 8
+[25-Jun-2024 10:22:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/ms-settings.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/ms-settings.php on line 35
+[25-Jun-2024 22:47:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/vitalaunch/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-http.php on line 11
+[26-Jun-2024 05:09:13 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer" not found in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/class-wp-text-diff-renderer-table.php on line 17

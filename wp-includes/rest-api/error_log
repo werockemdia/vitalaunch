@@ -1,0 +1,20 @@
+[21-Apr-2024 09:58:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/vitalaunch/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[13-May-2024 07:56:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/vitalaunch/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[14-Jun-2024 00:47:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/vitalaunch/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[14-Jun-2024 07:17:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/vitalaunch/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[17-Jun-2024 07:16:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/vitalaunch/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

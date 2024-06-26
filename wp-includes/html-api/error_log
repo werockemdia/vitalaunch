@@ -1,0 +1,36 @@
+[21-Apr-2024 09:58:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php on line 131
+[13-May-2024 07:56:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php on line 131
+[06-Jun-2024 19:34:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php on line 131
+[06-Jun-2024 19:34:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php on line 131
+[07-Jun-2024 18:21:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php on line 131
+[07-Jun-2024 18:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php on line 131
+[12-Jun-2024 11:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php on line 131
+[12-Jun-2024 11:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php on line 131
+[13-Jun-2024 23:34:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/html-api/class-wp-html-processor.php on line 131

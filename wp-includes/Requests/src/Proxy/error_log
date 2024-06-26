@@ -1,0 +1,8 @@
+[21-Apr-2024 10:15:55 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[13-May-2024 08:14:20 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24

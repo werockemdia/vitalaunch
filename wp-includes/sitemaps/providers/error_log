@@ -1,0 +1,52 @@
+[21-Apr-2024 10:05:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[21-Apr-2024 10:05:14 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[21-Apr-2024 10:08:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[13-May-2024 08:03:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[13-May-2024 08:03:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[13-May-2024 08:06:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[28-May-2024 15:14:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[29-May-2024 22:09:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[03-Jun-2024 01:36:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[09-Jun-2024 04:43:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[11-Jun-2024 11:59:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[11-Jun-2024 18:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[18-Jun-2024 02:48:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17

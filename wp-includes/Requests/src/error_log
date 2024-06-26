@@ -1,0 +1,8 @@
+[21-Apr-2024 10:13:46 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Hooks.php on line 19
+[13-May-2024 08:12:14 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Hooks.php on line 19

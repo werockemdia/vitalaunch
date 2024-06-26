@@ -1,0 +1,132 @@
+[19-Apr-2024 03:18:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[21-Apr-2024 10:03:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[27-Apr-2024 06:29:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[07-May-2024 04:37:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[13-May-2024 08:01:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[21-May-2024 15:20:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[30-May-2024 08:10:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[06-Jun-2024 14:28:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[06-Jun-2024 19:34:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[06-Jun-2024 19:34:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[06-Jun-2024 19:38:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[06-Jun-2024 19:38:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[07-Jun-2024 17:55:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[07-Jun-2024 18:20:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[07-Jun-2024 18:20:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[07-Jun-2024 18:23:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[07-Jun-2024 18:23:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[09-Jun-2024 22:55:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[12-Jun-2024 02:08:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[12-Jun-2024 11:54:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[12-Jun-2024 11:54:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[12-Jun-2024 12:00:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[12-Jun-2024 12:00:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[13-Jun-2024 18:09:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[14-Jun-2024 01:51:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[14-Jun-2024 02:01:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[14-Jun-2024 06:10:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[14-Jun-2024 23:55:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[16-Jun-2024 14:16:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[16-Jun-2024 20:11:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[18-Jun-2024 06:14:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[21-Jun-2024 17:22:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8
+[22-Jun-2024 23:44:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/vitalaunch/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/blocks/index.php on line 8

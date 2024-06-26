@@ -1,0 +1,8 @@
+[21-Apr-2024 10:14:58 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Utility\CaseInsensitiveDictionary" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Response/Headers.php on line 20
+[13-May-2024 08:13:21 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Utility\CaseInsensitiveDictionary" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Response/Headers.php on line 20

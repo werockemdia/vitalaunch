@@ -1,0 +1,32 @@
+[21-Apr-2024 10:16:06 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[21-Apr-2024 10:16:10 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[13-May-2024 08:14:29 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[13-May-2024 08:14:34 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[12-Jun-2024 05:07:07 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[12-Jun-2024 18:50:26 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[14-Jun-2024 09:08:43 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[15-Jun-2024 04:34:18 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8

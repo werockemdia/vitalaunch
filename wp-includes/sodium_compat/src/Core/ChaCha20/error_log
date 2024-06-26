@@ -1,0 +1,112 @@
+[21-Apr-2024 10:12:26 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[21-Apr-2024 10:21:28 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[13-May-2024 08:10:41 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[13-May-2024 08:19:49 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[06-Jun-2024 19:54:11 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[06-Jun-2024 19:54:11 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[06-Jun-2024 19:54:12 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[06-Jun-2024 19:54:12 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[06-Jun-2024 19:55:16 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[06-Jun-2024 19:55:16 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[06-Jun-2024 19:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[06-Jun-2024 19:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[07-Jun-2024 18:46:03 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[07-Jun-2024 18:46:04 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[07-Jun-2024 18:46:10 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[07-Jun-2024 18:46:10 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[07-Jun-2024 18:46:51 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[07-Jun-2024 18:47:05 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[07-Jun-2024 18:47:05 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[07-Jun-2024 18:47:05 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[12-Jun-2024 12:22:45 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[12-Jun-2024 12:22:47 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[12-Jun-2024 12:22:48 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[12-Jun-2024 12:22:49 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[12-Jun-2024 12:24:40 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[12-Jun-2024 12:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[12-Jun-2024 12:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[12-Jun-2024 12:24:42 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10

@@ -1,0 +1,104 @@
+[20-Apr-2024 19:37:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[21-Apr-2024 02:30:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[21-Apr-2024 09:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[21-Apr-2024 09:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[21-Apr-2024 09:51:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[21-Apr-2024 09:51:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[21-Apr-2024 09:51:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[21-Apr-2024 09:51:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[21-Apr-2024 09:53:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[21-Apr-2024 17:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[22-Apr-2024 22:54:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[13-May-2024 07:49:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[13-May-2024 07:49:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[13-May-2024 07:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[13-May-2024 07:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[13-May-2024 07:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[13-May-2024 07:50:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[13-May-2024 07:51:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[18-May-2024 14:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[13-Jun-2024 23:13:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[14-Jun-2024 01:18:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[14-Jun-2024 06:36:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[16-Jun-2024 17:06:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[25-Jun-2024 08:50:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[25-Jun-2024 09:52:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[26-Jun-2024 03:32:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/vitalaunch/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9

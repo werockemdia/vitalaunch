@@ -1,0 +1,32 @@
+[21-Apr-2024 10:14:30 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[21-Apr-2024 10:14:30 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Curl.php on line 25
+[13-May-2024 08:12:50 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[13-May-2024 08:12:55 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Curl.php on line 25
+[22-Jun-2024 14:36:42 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[23-Jun-2024 09:33:49 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Curl.php on line 25
+[24-Jun-2024 17:50:01 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[25-Jun-2024 09:36:04 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Transport/Curl.php on line 25

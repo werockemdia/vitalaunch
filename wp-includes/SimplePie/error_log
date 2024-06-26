@@ -1,0 +1,20 @@
+[21-Apr-2024 09:57:18 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/vitalaunch/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/SimplePie/Core.php on line 53
+[13-May-2024 07:54:05 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/vitalaunch/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/SimplePie/Core.php on line 53
+[20-May-2024 11:09:15 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/vitalaunch/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/SimplePie/Core.php on line 53
+[27-May-2024 09:13:32 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/vitalaunch/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/SimplePie/Core.php on line 53
+[30-May-2024 08:44:02 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/vitalaunch/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/SimplePie/Core.php on line 53

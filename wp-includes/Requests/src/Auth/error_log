@@ -1,0 +1,8 @@
+[21-Apr-2024 10:21:46 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Auth/Basic.php on line 23
+[13-May-2024 08:20:09 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/vitalaunch/public_html/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vitalaunch/public_html/wp-includes/Requests/src/Auth/Basic.php on line 23
