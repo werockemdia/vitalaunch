@@ -1,0 +1,67 @@
+.wc-multistore-ajax-sync-notice-container{
+    text-align: center;
+    clear: both;
+}
+
+
+.wc-multistore-ajax-sync-notice-header{
+    background: #2271b1;
+    color: #ffffff;
+    padding: 45px 0;
+}
+
+#wc_multistore_ajax_trash .wc-multistore-ajax-sync-notice-header,#wc_multistore_ajax_delete .wc-multistore-ajax-sync-notice-header{
+    background: #cc2727;
+}
+
+#wc_multistore_ajax_untrash .wc-multistore-ajax-sync-notice-header{
+    background: #49ab3d;
+}
+
+.wc-multistore-ajax-sync-notice-products{
+    margin: 20px auto;
+}
+
+.wc-multistore-ajax-sync-notice-header h2{
+    margin: 0;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.25;
+    color: #ffffff;
+}
+
+.wc-multistore-ajax-sync-notice-progress-bar{
+    display: inline-block;
+    width: 100px;
+    height: 25px;
+}
+
+.wc-multistore-ajax-sync-notice-product-name{
+    display: inline-block;
+    width: 100px;
+    text-overflow: ellipsis;
+}
+
+.wc-multistore-ajax-sync-notice-product-image{
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+}
+
+.wc-multistore-ajax-sync-notice-product-image img{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+.wc-multistore-ajax-sync-notice-progress-bar .ui-widget-header {
+    background: #0085ba none;
+}
+
+.wc-multistore-ajax-sync-notice-close{
+    margin: 20px auto;
+}
+
+.wc-multistore-ajax-sync-notice-message .notice-error{
+    color: #d63638;
+}

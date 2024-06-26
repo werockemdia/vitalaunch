@@ -1,0 +1,78 @@
+
+
+#woonet_data p.form-field.indent {margin-top: -10px; padding-left: 30px !important;}
+#woonet_data p.form-field.default_hide {display: none}
+
+.wc-multistore-checkbox-label input[type = 'checkbox'] {
+    display: none;
+}
+
+.woocommerce_options_panel .wc-multistore-checkbox-label,
+.wc-multistore-checkbox-label {
+    display: inline-block!important;
+    width: auto;
+    position: relative;
+    cursor: pointer;
+    font-size: 12px;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    margin: 0;
+    float: none;
+    padding: 0;
+}
+
+#woonet_data .form-field.inline .wc-multistore-checkbox-label .checkmark,
+.woocommerce_options_panel .wc-multistore-checkbox-label .checkmark,
+.checkmark {
+    display: inline-block;
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 1.3em;
+    width: 1.3em;
+    background-color: #2196F300;
+    border-radius: 0.25em;
+    transition: all 0.25s;
+    padding: 0;
+}
+
+#woonet_data .form-field.inline .wc-multistore-checkbox-label input:checked ~ .checkmark,
+.woocommerce_options_panel .wc-multistore-checkbox-label input:checked ~ .checkmark,
+.wc-multistore-checkbox-label input:checked ~ .checkmark {
+    background-color: #2196F3;
+}
+
+#woonet_data .form-field.inline .wc-multistore-checkbox-label .checkmark:after,
+.woocommerce_options_panel .wc-multistore-checkbox-label .checkmark:after,
+.wc-multistore-checkbox-label .checkmark:after{
+    content: "";
+    position: absolute;
+    transform: rotate(0deg);
+    border: 0.1em solid black;
+    left: 0;
+    top: 0;
+    width: 1.05em;
+    height: 1.05em;
+    border-radius: 0.25em;
+    transition: all 0.25s, border-width 0.1s;
+}
+#woonet_data .form-field.inline .wc-multistore-checkbox-label input:checked ~ .checkmark:after,
+.woocommerce_options_panel .wc-multistore-checkbox-label input:checked ~ .checkmark:after,
+.wc-multistore-checkbox-label input:checked ~ .checkmark:after {
+    left: 0.45em;
+    top: 0.25em;
+    width: 0.25em;
+    height: 0.5em;
+    border-color: #fff0 white white #fff0;
+    border-width: 0 0.15em 0.15em 0;
+    border-radius: 0em;
+    transform: rotate(45deg);
+}
+
+.wc-multistore-checkbox-label input[disabled] ~ .checkmark:after {
+    border-color: #afafaf;
+}
+
+.wc-multistore-checkbox-label input[disabled] ~ .checkmark {
+    cursor: not-allowed;
+}

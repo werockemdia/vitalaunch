@@ -1,0 +1,50 @@
+.wc-multistore-background-sync-notice-container.quick-edit{
+    position: fixed;
+    right: 0;
+    top: 300px;
+}
+.wc-multistore-background-sync-notice-container{
+    text-align: center;
+    clear: both;
+}
+
+.wc-multistore-background-sync-notice-header{
+    background: #cc8a27;
+    color: #ffffff;
+    padding: 45px 0;
+}
+
+.wc-multistore-background-sync-notice-products{
+    margin: 20px auto;
+}
+
+.wc-multistore-background-sync-notice-header h2{
+    margin: 0;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.25;
+    color: #ffffff;
+}
+
+
+.wc-multistore-background-sync-notice-name{
+    display: inline-block;
+    width: 100px;
+    text-overflow: ellipsis;
+}
+
+.wc-multistore-background-sync-notice-image{
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+}
+
+.wc-multistore-background-sync-notice-image img{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+.wc-multistore-background-sync-notice-close-sync-screen{
+    margin: 20px auto;
+}

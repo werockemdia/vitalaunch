@@ -1,0 +1,81 @@
+.wc-multistore-quick-edit-notice-container{
+    display: none;
+    position: fixed;
+    right: 20px;
+    top: 126px;
+    z-index: 99999999;
+    width: calc( 100% - 200px);
+    padding: 0 0 20px 0!important;
+    background: #f0f0f1;
+}
+
+.wc-multistore-quick-edit-notice-container .wc-multistore-quick-edit-notice-header{
+    background: #cc8a27;
+    color: #ffffff;
+}
+
+.wc-multistore-quick-edit-notice-container.wc_multistore_inline_save_ajax .wc-multistore-quick-edit-notice-header{
+    background: #2271b1;
+    color: #ffffff;
+}
+
+.wc-multistore-quick-edit-notice-container{
+    text-align: center;
+    clear: both;
+}
+
+.wc-multistore-quick-edit-notice-header{
+    padding: 20px 0;
+}
+
+.wc-multistore-quick-edit-notice-products{
+    margin: 20px auto;
+}
+
+.wc-multistore-quick-edit-notice-header h2{
+    margin: 0;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.25;
+    color: #ffffff;
+}
+
+.wc-multistore-quick-edit-notice-name{
+    display: inline-block;
+    width: 100px;
+    text-overflow: ellipsis;
+}
+
+.wc-multistore-quick-edit-notice-image{
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+}
+
+.wc-multistore-quick-edit-notice-image img{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+.wc-multistore-quick-edit-notice-close-sync-screen{
+    margin: 20px auto;
+}
+
+.wc-multistore-quick-edit-notice-close-sync-screen a{
+    /*color:#ffffff;*/
+}
+
+.wc-multistore-quick-edit-notice-progress-bar{
+    display: inline-block;
+    width: 100px;
+    height: 25px;
+}
+
+.wc-multistore-quick-edit-notice-progress-bar .ui-widget-header {
+    background: #0085ba none;
+}
+
+.wc-multistore-quick-edit-notice-message .notice-error{
+    color: #d63638;
+}

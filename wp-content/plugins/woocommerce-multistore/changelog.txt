@@ -1,0 +1,1136 @@
+== Changelog ==
+= Release 5.2.4 =
+Released: 2023-11-06
+* Bugfix: Fixed site specific import order settings
+* Bugfix: Fixed product cloning when importing order and using sync by sku
+* Bugfix: (Multisite) Fixed site name and url not reflecting changes
+* Improvement: Added filter for original order data: wc_multistore_original_order_data
+* Improvement: Added filter for that allows disabling meta keys from being imported with orders: wc_multistore_import_order_meta_key
+
+= Release 5.2.3 =
+Released: 2023-10-26
+* Bugfix: (Single Site) Fixed fatal error on bulk sync/update pages because of swith_to_blog
+* Bugfix: Fixed coupons sync adding limited products ids to the excluded product ids
+* Improvement: Added filter for order_export args: wc_multistore_export_orders_args
+* Improvement: Added filter to disable cloned products data sync: wc_multistore_update_cloned_product_data
+
+= Release 5.2.2 =
+Released: 2023-10-18
+* Bugfix: Fixed fatal error when updating orders for child stores that don't exist
+* Bugfix: Fixed fatal error for grouped products that don't actually exist
+* Bugfix: Fixed fatal on checkout when product doesn't exist
+* Bugfix: Fixed main store not sending customer order note email when import order is enabled
+* Bugfix: Fixed sku not being detected when it contains single quote
+* Bugfix: Fixed orders not importing when using wpml folder urls
+* Bugfix: Fixed attributes hide/show toggle on settings page
+
+
+= Release 5.2.1 =
+Released: 2023-10-03
+* Bugfix: Fixed php warning for gallery images that have id but the attachment is missing
+* Bugfix: Fixed sequential order number not being available to third parties
+* Bugfix: Fixed fatal error when order note is deleted and the original site of the order note does't exist
+* Bugfix: Fixed bulk sync continue button
+* Improvement: Removed variations meta keys from custom meta page
+* Feature: Added Bulk update page
+
+= Release 5.2.0 =
+Released: 2023-09-29
+* Bugfix: Fixed tags translations for wpml
+* Bugfix: Fixed bulk edit not enabling stock sync when allways maintain stock sync setting is enabled
+* Bugfix: Fixed php warnings when attachment doesn't exist
+* Bugfix: Fixed variations being synced with no sku when sync by sku is enabled ( error message included )
+
+= Release 5.1.9 =
+Released: 2023-09-25
+* Bugfix: Fixed terms being assigned wrong language with wpml because of get_term filter
+
+= Release 5.1.8 =
+Released: 2023-09-25
+* Improvement: Removed hook to delete variation data from master when child variation is deleted
+* Improvement: When product status is disabled, new child products will be set as drafts
+* Bugfix: Fixed variation check for duplicate sku with wpml
+* Bugfix: Fixed product categories translations with wpml addon
+
+= Release 5.1.7 =
+Released: 2023-09-19
+* Bugfix: Fixed stock sync when order changes status
+
+= Release 5.1.6 =
+Released: 2023-09-18
+* Improvement: Added filters for orders export data: https://woomultistore.com/plugin-api-filters-actions/
+
+= Release 5.1.5 =
+Released: 2023-09-14
+* Bugfix: Added workaround fix for product gallery related to woocommerce issue : https://github.com/woocommerce/woocommerce/issues/39332
+* Bugfix: (Single Site) Fixed variation images when global images is enabled
+* Bugfix: Fixed network orders sorting
+
+= Release 5.1.4 =
+Released: 2023-09-08
+* Bugfix: Fixed product tax status sync
+* Bugfix: Fixed slow query on network orders page after HPOS integration
+* Bugfix: Fixed woonet/v1/orders rest api route after HPOS integration
+
+= Release 5.1.3 =
+Released: 2023-09-07
+* Bugfix: Fixed virtual product download not syncing correctly
+* Bugfix: Fixed child product syncing stock when stock sync is disabled
+* Bugfix: (Multi Site) Fixed order export page not being visible when main store is not first blog
+* Bugfix: (Multi Site) Fixed network orders page not being visible when main store is not first blog
+* Bugfix: (Multi Site) Fixed fatal error when there are no active plugins
+* Bugfix: Fixed master product hooks triggering for products that are not child products nor master products
+* Bugfix: Fixed order export order number column
+* Improvement: Added support for HPOS for network orders page
+* Improvement: Added support for HPOS for order export page
+* Improvement: Added url for imported order in originating order column for network orders page and orders page
+* Improvement: Disabled refund button on network orders page for imported orders
+* Improvement: Removed multistore metadata when product is duplicated
+* Improvement: Terms are now synced by slug instead of name - could cause issues with attributes otherwise
+
+= Release 5.1.2 =
+Released: 2023-08-30
+* Bugfix: Fixed reviews being added to product before the product has an ID assigned ( could cause errors for third parties )
+* Bugfix: Fixed custom meta data adding empty array values in database
+* Bugfix: Enabled network orders page for woocommerce 8.0.2
+* Bugfix: Fixed html being erased from product category description
+* Improvement: Removed default woocommerce meta fields related to attributes from custom meta page so users don't select them and cause attributes not to sync
+* Feature: Added settings for attribute term name, slug and description ( enabled by default )
+
+= Release 5.1.1 =
+Released: 2023-08-10
+* Bugfix: Fixed sync of sale date to and sale date end
+* Bugfix: Fixed sync by sku disabling itself when settings are saved
+* Bugfix: (Single Site) Fixed orders export not including child site orders when row per product is selected
+
+= Release 5.1.0 =
+Released: 2023-08-09
+* Improvement: Added compatibility with HPOS ( network orders page is disabled if HPOS is enabled and custom order tables are active until fix )
+* Bugfix: Fixed emails for customer order notes being sent twice when import order is active and order note is added for imported order
+
+= Release 5.0.9 =
+Released: 2023-08-04
+* Bugfix: (Single Site) Fixed global image data causing fatal error by running out of memory ( single child sites need to run Data Update )
+* Bugfix: Fixed attributes no syncing archive field
+
+= Release 5.0.8 =
+Released: 2023-07-28
+* Bugfix: (Single Site) Fixed sequential order numbers not taking the correct values
+
+= Release 5.0.7 =
+Released: 2023-07-27
+* Bugfix: Fixed cross sells and upsells sync when sync by sku is enabled
+* Bugfix: Fixed paid date for imported order
+* Bugfix: Fixed _variation_id not being added for imported orders
+
+= Release 5.0.6 =
+Released: 2023-07-26
+* Improvement: Added new settings for categories
+* Improvement: (Single Site) Improved sites page load times
+* Bugfix: Fixed notices for tax items when importing order
+* Bugfix: Fixed attribute type not syncing correctly
+* Bugfix: Fixed variable product not syncing stock from checkout
+* Bugfix: Fixed variations not syncing
+
+= Release 5.0.5 =
+Released: 2023-07-22
+* Bugfix: Fixed bulk sync child sites select
+* Improvement: Select all from custom taxonomy page toggles the fields
+
+= Release 5.0.4 =
+Released: 2023-07-20
+* Bugfix: Fixed duplicate orders when importing orders with shipping items
+
+= Release 5.0.3 =
+Released: 2023-07-20
+* Bugfix: Fixed variations sync when product has upsells and cross sells
+* Bugfix: Fixed not being able to delete cross sells and upsells on woocommerce 7.9.0
+
+= Release 5.0.2 =
+Released: 2023-07-18
+* Bugfix: Fixed custom meta keys not displaying for variations on set custom meta page
+* Bugfix: Fixed bulk sync stopping when no data is returned
+* Bugfix: Fixed curl timeout - increased timeout to 60
+* Bugfix: Fixed ajax sync stopping when no data is returned
+
+= Release 5.0.1 =
+Released: 2023-07-16
+* Bugfix: Fixed variations not synching when sync by sku is enabled
+* Bugfix: (Multi Site) Fixed plugin deactivating when woocommerce was not network enabled
+
+= Release 5.0.0 =
+Released: 2023-07-13
+Version 5.0.0 is a major release with significant changes. It is required that you make database backup before you run the Data Update for our plugin
+* Restructure: Restructured files and code for better scalability
+* Restructure: Filters from previous versions are deprecated. Please see the new filters on our filters page: https://woomultistore.com/plugin-api-filters-actions/
+* Restructure: (Multi Site) Multisite version no longer supports multiple master stores and now has one master store that is chosen during setup. ( Products cannot be published from any store to any store, they can only be published from master store )
+* Improvement: (Multi Site) Fixed performance on checkout page for stock sync and order import.
+* Improvement: (Multi Site) Fixed performance on all products page/single product page.
+* Improvement: (Multi Site) Fixed performance being affected when large number of products are synced.
+* Improvement: Added better UI when products sync on admin screen
+* Bugfix: (Multi Site) Fixed wrong email language for import order when order is modified by master store.
+* Compatibility: (Multi Site) Fixed compatibility WP Offload Media.
+* Feature: (Single Site) Added functionality to change child store domain and main store domain under setup wizard / sites settings
+* Feature: Upsells and Cross-sells no longer need to be synced separate
+* Feature: Downloads are synced to child stores now
+* Feature: Added new UI for custom meta data. Users can select the meta fields instead of manually add meta name
+* Feature: Improved settings page and UI
+* Feature: Added better UI for products link
+
+= Release 4.7.9 =
+Released: 2023-01-26
+* Bugfix:   (Multi Site) Fixed fatal error when meta data is not an object
+* Bugfix:   (Multi Site) Fixed categories and tags error when values are empty
+* Bugfix:   (Multi Site) Partially Fixed background sync not saving inherit and stock sync
+* Bugfix:   (Multi Site) Fixed object cache compatibility
+* Bugfix:   (Single Site) Fixed wrong term do_action that caused error with wpml addon
+* Bugfix:   (Single Site) Fixed iframe not allowed in child product_description
+* Bugfix:   (Single Site) Fixed import order reducing stock when order status is pending payment
+* Bugfix:   (Single Site) Fixed stock sync from master to child sites when product doesn't have image
+* Bugfix:   (Single Site) Fixed bulk sync error for draft products on PHP 8.0
+* Bugfix:   (Single Site) Fixed deprecated PHP 8.0 warnings on Network Orders page
+* Bugfix:    Fixed integration with WooCommerce PDF Invoices & Packing Slips on network orders page
+* Feature:   Added support for multiple order statuses when exporting orders
+
+= Release 4.7.8 =
+Released: 2022-12-15
+* Improvement:   (Multi Site) Display current product and next product id when using bulk sync
+* Bugfix:        Removed cloned products by import order when using bulk sync
+* Bugfix:        Fixed remaining products count when using bulk sync
+
+= Release 4.7.7 =
+Released: 2022-12-13
+* Bugfix:        (Multi Site) Fixed stock sync for multiple order items when order import is disabled
+* Bugfix:        (Multi Site) Fixed stock sync when user had no permissions
+
+= Release 4.7.6 =
+Released: 2022-12-07
+* Improvement:   Cloned products will now be visible in dashboard as private products
+* Bugfix:        Fixed product category image sync not disabling when option was set to no
+* Bugfix:        (Single Site) Fixed php warnings when license status is checked
+* Bugfix:        (Single Site) Removed debug code on taxonomy settings page
+* Bugfix:        (Multi Site) Fixed product reviews count, rating and average rating when the option is set to no
+
+= Release 4.7.5 =
+Released: 2022-11-18
+* Bugfix:        Fixed Import order not importing customer data
+* Bugfix:        Fixed License not countable response
+* Bugfix:        (Single Site) Fixed stock sync at checkout when order import is disabled
+* Bugfix:        (Multi Site) Fixed child products not displaying correct info on product edit page
+
+= Release 4.7.4 =
+Released: 2022-11-08
+* Bugfix:        (Multisite) Fixed attributes sync
+* Bugfix:        Fixed undefined variable woocommerce_admin on network orders page
+
+= Release 4.7.3 =
+Released: 2022-11-04
+* Bugfix:        (Multisite) Fixed fatal error when duplicating product
+* Bugfix:        (Multisite) Fixed fatal error when saving product category
+* Bugfix:        (Multisite) Fixed localhost requiring licence
+* Bugfix:        (Single Site) Fixed integration with WooCommerce PDF Invoices & Packing Slips
+* Bugfix:        Fixed fatal error for imported order coupons
+* Feature:       (Single Site) Localhost doesn't require licence
+
+= Release 4.7.2 =
+Released: 2022-11-01
+* Bugfix:        (Single Site) Fixed bug that caused duplicate orders when importing orders
+
+= Release 4.7.1 =
+Released: 2022-10-26
+* Bugfix:        (Multisite) Fixed webhooks not triggering for imported order
+* Bugfix:        (Single Site) Fixed webhooks not triggering for imported order
+* Bugfix:        (Single Site) Fixed order status for order export
+* Bugfix:        (Multisite) Fixed variation stock sync when request was made by REST API
+* Bugfix:        (Multisite) Fixed variation shipping class sync
+* Bugfix:        (Multisite) Fixed fatal error when variation data sync is disabled and downloads field is empty
+* Improvement:   Imported order displays original order number instead of original order id
+* Feature:       Added new option for menu_order
+* Feature:       Attributes now sync has_archive field
+* Feature:       Customer order note is synced back to original order for imported orders
+
+= Release 4.7.0 =
+Released: 2022-09-09
+* Improvement:   (Single Site) Improved checkout load times when importing order
+* Improvement:   (Single Site) Improved checkout load times when syncing stock
+* Improvement:   Display licence activation errors
+
+= Release 4.6.9 =
+Released: 2022-08-17
+* IMPORTANT:     Before updating, please update all Woomultistore addons to the latest version ( https://woomultistore.com/addons/ )
+* Bugfix:        (Multisite) Fixed imported user blog assignment when import order is on
+* Bugfix:        (Single Site) Fixed network orders warnings when there was no child site connected
+* Bugfix:        (Single Site) Fixed order export warning when there was no child site connected
+
+= Release 4.6.8 =
+Released: 2022-07-19
+* Bugfix:        (Multisite) Fixed Global Image javascript file inclusion
+* Bugfix:        (Single Site) Fixed bulk edit not working when "use product settings" was selected
+* Bugfix:        (Single Site) Fixed bulk edit javascript error
+* Bugfix:        (Single Site) Fixed already defined constants warning
+* Bugfix:        Fixed bulk edit taking input values from quick editor
+* Bugfix:        Fixed sequential order number when import order was enabled
+
+= Release 4.6.7 =
+Released: 2022-07-01
+* Bugfix:        (Multisite) Fixed Import Order duplicating order when imported order changed status
+* Bugfix:        (Single Site) Fixed sale price sync when scheduled
+* Refactor:      Refactored File names and plugin structure
+
+= Release 4.6.6 =
+Released: 2022-06-14
+* Bugfix:        Fixed fatal error caused by wrong included global image files
+* Security:      Improved file security
+
+= Release 4.6.5 =
+Released: 2022-06-13
+* Refactor:      Refactored Order Export functionality
+* Bugfix:        Fixed Order Export order tax items using wrong values
+* Bugfix:        Fixed Order Export order coupon items using wrong values
+* Bugfix:        Fixed Order Export order shipping items using wrong values
+* Bugfix:        Fixed Global Image responsive images not working with PHP 8+
+* Bugfix:        (Single Site) Fixed duplicate documentation and settings links on plugins page
+
+= Release 4.6.4 =
+Released: 2022-06-01
+* Bugfix:        (Single Site) Fixed upsells and cross sells syncing when option was disabled
+* Bugfix:        Fixed Default Form Values ( default attributes ) not saving default value
+* Bugfix:        (Single Site) Fixed bulk sync not working when background sync was enabled
+* Bugfix:        Fixed Global Image not working with PHP version 7.4 +
+
+= Release 4.6.3 =
+Released: 2022-05-25
+* Feature:       Added Global Image option
+
+= Release 4.6.2 =
+Released: 2022-05-11
+* Bugfix:        (Multisite) Fixed import order removing parent product attributes
+
+= Release 4.6.1 =
+Released: 2022-05-07
+* Bugfix:        Fixed import order not importing customer name
+* Bugfix:        Fixed PHP warnings on front-end when import order and debug was on
+* Bugfix:        Fixed PHP warnings when shipping class didn't exist
+* Bugfix:        Fixed PHP warnings when term parent didn't exist
+* Bugfix:        (Multisite) Fixed PHP warnings when shipping class didn't exist
+* Bugfix:        Fixed attributes syncing the slug instead of the name
+* Feature:       Added filter to disable customer import for imported order wc_multistore_import_order_customer
+* Feature:       Added option to disable attribute name from sync
+
+= Release 4.6.0 =
+Released: 2022-04-05
+* Bugfix:        (Multisite) Fixed fatal error when searching woocommerce orders on child sites
+* Bugfix:        (Multisite) Fixed fatal error when using WP All Import plugin
+
+= Release 4.5.9 =
+Released: 2022-03-31
+* Bugfix:        Fixed stock sync when order status changed by bulk edit
+* Bugfix:        Fixed fee items not displaying the refunded label for imported order when original order was refunded
+* Bugfix:        (Single Site) Fixed attribute type not syncing
+* Bugfix:        (Multisite) Fixed attributes not syncing
+* Bugfix:        (Single Site) Fixed Sync coupons option not saving on child sites
+* Bugfix:        Fixed Coupon usage count not syncing
+* Feature:       Added individual import order settings for each site.
+
+= Release 4.5.8 =
+Released: 2022-03-15
+* Bugfix:        (Multisite) Fixed str_contains fatal error for PHP 7
+* Bugfix:        (Multisite) Fixed "Show customers orders from all stores in My Account" causing fatal error
+
+= Release 4.5.7 =
+Released: 2022-03-10
+* Bugfix:        (Multisite) Fixed disable stock sync not working
+* Bugfix:        (Multisite) Fixed products not syncing with REST API
+* Bugfix:        (Multisite) Fixed shipping class not being removed when empty
+
+= Release 4.5.6 =
+Released: 2022-02-16
+* Bugfix:        Fixed serialized multidimensional array custom meta fields
+* Bugfix:        Fixed custom meta fields with multiple values for the same key
+* Bugfix:        Fixed export order row per product
+* Bugfix:        (Multisite) Fixed custom slug not syncing on publish ( first sync )
+* Bugfix:        Fixed variable products attributes not deleting when attributes were empty
+
+= Release 4.5.5 =
+Released: 2022-02-04
+* Feature:       Added Order Number and meta data to order export.
+* Feature:       Added order item meta to Imported order.
+* Feature:       Added order meta to sync back from Imported order to Original order on order update.
+* Feature:       Added filter for plugin publish capability. See our filters list page
+* Bugfix:        (Multisite) Fixed a bug that caused the license to be impossible to deactivate
+
+= Release 4.5.4 =
+Released: 2022-01-26
+* Feature:       Added price options for variations.
+* Feature:       Removed single site master tab (not needed).
+
+= Release 4.5.3 =
+Released: 2022-01-20
+* Bugfix:        Fixed valid response_code for license validity check.
+
+= Release 4.5.2 =
+Released: 2022-01-17
+* Bugfix:        Fixed stock sync when order status changed to cancelled.
+* Bugfix:        Fixed stock sync when order status changed from cancelled to processing.
+
+= Release 4.5.1 =
+Released: 2022-01-12
+* Bugfix:        (Multisite) Fixed stock sync when import order was on.
+* Bugfix:        (Multisite) Fixed stock sync when order item changed quantity manually.
+* Bugfix:        (Multisite) Fixed a bug that could cause checkout to fail when import order was on.
+* Bugfix:        (Single Site) Fixed stock sync when order item changed quantity manually.
+* Bugfix:        (Single Site) Fixed height, width, length, weight warnings.
+
+= Release 4.5.0 =
+Released: 2021-12-24
+* Bugfix:        Fixed stock sync on order created or refunded.
+* Bugfix:        Fixed sku sync turning off stock sync settings.
+* Bugfix:        Fixed stock sync on manual edit from child sites.
+* Bugfix:        Fixed network orders page not displaying the right order status class.
+* Bugfix:        Fixed PHP warnings for weight, length and height.
+* Bugfix:        Fixed PHP warnings inherit by default.
+* Bugfix:        Fixed PHP warnings when $wpdb->update was used.
+* Feature:       Imported order now displays the original order ID.
+* Feature:       Imported order can now be searched by original order ID.
+* Feature:       Added option for variations status.
+* Feature:       Added options to sync only variations stock (includes separate option for variation data).
+* Feature:       Added option for product category meta data.
+* Feature:       Integrated bulk sync into main plugin (it is advised to remove the addon first).
+
+= Release 4.4.9 =
+Released: 2021-12-06
+* Feature:       (Multisite) Added support for Woocommerce REST API versions 2 and 3
+* Feature:       (Single Site) Added support for Woocommerce REST API versions 2 and 3
+* Bugfix:        (Multisite) Fixed filter for cloned products that was removing the current meta query on all product page( dashboard )
+* Bugfix:        (Single Site) Fixed filter for cloned products that was removing the current meta query on all product page( dashboard )
+
+= Release 4.4.8 =
+Released: 2021-10-04
+* Feature:       Added support for PHP 8.0
+* Feature:		 Show warning if export order items selected without any order item
+* Bugfix:        Fixed order export to auto select order items if any order item was selected
+* Bugfix:        Fixed Chinese text not showing on export order of children (only showing escaped characters)
+* Bugfix:        Fixed export order date of child websites
+
+= Release 4.4.7 =
+Released: 2021-09-14
+* Bugfix:        Fixed order duplication when woocommerce_create_order hook was use by third parties
+* Bugfix:        Fixed order import not importing custom taxes with same name properly
+* Bugfix:        (Single Site) Fixed Publish to setting not working correctly
+* Bugfix:        (Single Site) Fixed meta data not saving serialized arrays
+* Bugfix:        (Single Site) Fixed image meta not being sent to child sites
+* Bugfix:        (Multisite) Fixed import_key warning
+
+= Release 4.4.6 =
+Released: 2021-09-01
+* Bugfix:        (Multisite) Fixed custom taxonomy terms not updating parent term and not assigning new terms when using wp all import scheduler
+* Bugfix:        Fixed order import not importing custom fees and coupons when order was updated through dashboard
+
+= Release 4.4.5 =
+Released: 2021-08-24
+* Bugfix:        (Single Site) Fixed variations not updating sale price, weight, height, length when value was empty
+* Bugfix:        (Single Site) Fixed simple product, variable product not updating weight, height, length when value was empty
+* Bugfix:        (Single Site) Fixed external product not updating product url, button text when value was empty
+* Bugfix:        (Single Site) Fixed memory usage on network orders page
+* Feature:       (Multisite) Added filter to remove bulk editor
+
+= Release 4.4.4 =
+Released: 2021-08-13
+* Bugfix:        (Single Site) Fixed duplicate sku error. Will log the sku and id instead 
+* Bugfix:        (Single Site) Fixed pagination for network orders page
+* Bugfix:        (Single Site) Added support for wpml variations
+* Bugfix:        (Multisite) Fixed network products search results when searching by sku
+* Bugfix:        Fixed Import order duplicate sku. Will log the sku and id instead
+
+= Release 4.4.3 =
+Released: 2021-06-17
+* Bugfix:        Fixed network orders page displaying wrong post types
+* Bugfix:        Fixed shipping, taxes, and fees when refund was done through network orders page
+* Bugfix:        (Multisite) Fixed refund not restocking when it was done through network orders page
+* Bugfix:        Fixed order status sync when import order is active and refund was done through network orders page.
+
+= Release 4.4.2 =
+Released: 2021-06-14
+* Bugfix:        Fixed stock sync for single site
+* Bugfix:        Fixed stock sync when order import is active
+* Bugfix:        Fixed coupon duplication when coupon sync and order import is active
+
+= Release 4.4.1 =
+Released: 2021-06-11
+* Feature:       Added support for custom order status
+* Feature:       Imported order's status will sync automatically to original order
+* Feature:       Refund order from the network order interface
+
+= Release 4.4.0 =
+Released: 2021-05-27
+* Bugfix:        Fixed stock sync single site variations
+* Feature:       Show a message when there are no taxonomy defined
+* Feature:       On the child site page, show when a site is not being able to connect with the master
+* Feature:       Order import option ( allows orders to be imported to a main site )
+
+= Release 4.3.3 =
+Released: 2021-04-29
+* Bugfix:        (Single Site) Fixed not being able to disable stock sync
+
+= Release 4.3.2 =
+Released: 2021-04-26
+* Bugfix:        (Multisite) Variable product with sku causing fatal error on update/publish
+
+= Release 4.3.1 =
+Released: 2021-04-21
+* Bugfix:        (Single Site) Sync by sku setting not saving correctly
+
+= Release 4.3.0 =
+Released: 2021-04-19
+* Bugfix:        (Single Site) Use product settings option unmarking synced products
+* Bugfix:        (Single Site) Sub-category with the same name not being synchronized
+* Bugfix:        (Single Site) Export function not exporting all products
+* Bugfix:        (Single Site) Export function not exporting metadata
+* Bugfix:        (Single Site) Price not syncing when empty
+* Feature:        Sync by SKU
+* Feature:        Synchronize new products with all child sites by default
+
+= Release 4.2.0 =
+Released: 2021-03-23
+* Feature:        (Single Site) Filter to schedule delete
+* Feature:        (Single Site) Option to enable/disable allow backorder sync
+* Feature:        (Multisite) Options to enable/disable featured status sync
+* Feature:        Option to run sync in the background (via Action Scheduler)
+* Feature:        Option to enable/disable AJAX sync
+* Feature:        Options to reset all data
+* Feature:        Support added for PPOM Pro plugin
+* Feature:        Support added for Polylang
+* Feature:        Support added for Innozilla Per Product Shipping WooCommerce (Pro)
+* Feature:        Filter added to disable 3rd party integration
+* Feature:        (Single Site) Filter added to enable/disable synchronization of default variation
+* Feature:        Options to enable/disable catalogue visibility
+* Feature:        Added filter WOO_MSTORE_SYNC/sync_child/sync_attachment_meta_data to enable/disable synchronization of image metadata
+* Bugfix:         (Multisite) Sync fails for SKUs with leading zero
+* Bugfix:         (Single Site) Setup Wizard throwing fatal error when the error message received is not a WP error object
+* Bugfix:         (Single Site) Metadata for external product type not being synced
+* Bugfix:         Auto-suggest addon shows warning to non-admin
+* Bugfix:         (Single Site) Fatal error on network orders page when order is refunded when using sequential order option
+* Bugfix:         (Multisite) Fixed bulk sync and quick sync bug in the network admin panel
+* Bugfix:         Products not being synced when updated by non-admin users
+* Bugfix:         (Multisite) Network products and Network orders menu not visible in WooCommerce 5.1.0
+
+= Release 4.1.5 =
+Released: 2020-11-02
+* Feature:        Basic support for Elementor and Elementor Pro
+* Feature:        Automatically suggest to install or update addons
+* Feature:        (Multisite) Sync custom taxonony and custom metadata 
+* Feature:        (Multisite) Options added to allow users to enable/disable the synchronization of shipping class
+* Feature:        (Single Site) Separate options to enable/disable the synchronization of sale price and regular price
+* Bugfix:         (Single Site) Stock sync for guest orders
+* Bugfix:         (Single Site) Show shipping method on the network order page
+* Bugfix:         (Single Site) Product stock expiration not working for child products
+* Bugfix:         (Multisite) Shipping class not being synced for variations
+* Support:        Support added for Custom Product Tabs for WooCommerce
+* Support:        Support added for WPC Countdown Timer
+* Developer:      (Single Site) Added filter to individually control price sync
+* Developer:      (Single Site) Added filter to enable/disable variation image sync
+* Developer:      (Single Site) Filter to control synchronization of every metadata and product attributes
+* Developer:      (Single Site) Filter & options to enable/disable stock sync for a particular site
+* Developer:      (Single Site) Filter to enable/disable image data sync
+* Developer:      (Single Site) Filter to enable/disable stock status
+* Developer:      (Single Site) Filter to enable/disable stock quantity
+* Developer:      (Single Site) Filter to enable/disable backorders
+* Developer:      (Single Site) Filter to enable/disable low stock status
+* Developer:      (Multisite) Filter to enable/disable legacy get_slave_product_id
+
+= Release 4.1.4 =
+Released: 2020-09-11
+* Change:        (Single Site) Synced product will inherit created date and updated date from the parent
+* Bugfix:        (Single Site) Network interface not showing orders from the main site
+* Bugfix:        (Single Site) Various minor bugfixes and performance improvements
+
+= Release 4.1.3 =
+Released: 2020-09-07
+* Bugfix:        (Single Site) Number of reviews being copied over when review sync is disabled
+* Bugfix:        (Single Site) Random product syncing to stores that are not selected
+* Bugfix:        (Single Site) Do not fire sync for products created on the child sites
+* Bugfix:        (Single Site) Prevent sync loops
+* Bugfix:        (Single Site) Various fixes and performance improvements
+* Developer:     (Single Site) Filter added to show only orders with synced products
+* Developer:     (Single Site) Filter added to only export orders for synced products
+
+= Release 4.1.2 =
+Released: 2020-08-11
+* Feature:       (Single Site) Filter order by site
+* Feature:       (Single Site) Cancel order from the network admin panel
+* Feature:       (Single Site) Products will always remain in sync regardless of update method (only changes from master to the child sites)
+* Feature:       (Multisite)   Export site title
+* Feature:       (Single Site) Order Export order items are no longer a JSON string
+* Bugfix:        (Single Site) Remove a deactivated site
+* Bugfix:        (Single Site) Sometimes network orders are empty when viewing all orders
+* Bugfix:        (Single Site) Duplicate SKU warning when products are updated on the child
+* Bugfix:        (Single Site) Stock sync failing for variable product when set on each individual product
+* Bugfix:        (Single Site) Product unlinks/sync disabled when order is cancelled
+* Bugfix:        (Single Site) Several minor stock sync bugfixes
+* Change:        (Multisite) Menu renamed from WooCommerce to Multistore
+* Change:        (Multisite) Renamed settings Display all user info at all stores to Show customers orders from all stores in My Account for clarity
+* Change:        (Single Site) If child product type is different from the master product type, the child product type will be changed
+* Developer:     (Single Site) URL validation on the site add screen
+* Developer:     (Single Site) Run custom meta keys through sanitize_key() to remove unwanted characters 
+* Developer:     (Single Site) Filter added to add custom bulk action
+* Developer:     (Single Site) Action hook added to handle custom bulk action
+* Developer:     (Single Site) Filter added to enable/disable AJAX sync
+* Developer:     (Single Site) Filter added to enable/disable quick sync
+* Developer:     (Single Site) Filter added to enable/disable real-time sync (syncs product when users are not on edit screen)
+* Developer:     (Single Site) Filter to force enable logging of the plugin activity
+* Developer:     (Multisite) Action hook added to handle custom bulk action
+* Integration:   (Multisite) Support added for the plugin Product GTIN (EAN, UPC, ISBN) for WooCommerce
+
+= Release 4.1.1 =
+Released: 2020-06-22
+* Bugfix:  (Single Site) Fixes the sync bug that was happening after updating to 4.1.0
+
+= Release 4.1.0 =
+Released: 2020-06-20
+* Bugfix:  (Single Site) Hide the order export option from the child site
+* Bugfix:  (Single Site) Fixed custom attribute sync
+* Bugfix:  (Single Site) Network order search bug fixed
+* Bugfix:  (Single Site) WordPress 5.4.2 broke screen options settings
+* Change:  (Single Site) Rename settings menu on the child site to Settings (Main site)
+* Feature: (Single Site) Disable a site to hide it from the sync options
+* Feature: (Single Site) Enable/disable synchronization of shipping classes
+* Feature: (Single Site) Added filter by order status and search function in the network orders page
+* Feature: (Single Site) Added custom metadata sync option
+* Feature: (Single Site) Added custom taxonomy sync option
+
+
+= Release 4.0.0 =
+Released: 2020-06-09
+* Bugfix: Hide the list of sites on the bulk editor and the quick edit from users who don’t have permission
+* Bugfix: When a product is duplicated, do not link it to the old child or master product
+* Bugfix: When WooCommerce “Hide out of stock items from the catalog” is checked, products become out of stock upon update
+* Bugfix: Minor bugfix on the settings page
+* Bugfix: During stock sync, when stock becomes 0, the product is not being set as out of stock
+* Feature: Deactivate license key from the plugin’s settings page
+* Bugfix: Order tracking was not picking the order ID when sequential order ID is enabled (multisite)
+* Bugfix: Sub-directory being removed from master URL
+* Feature: (Multisite) Update stock when creating orders from backend
+* Feature: (Multisite) Speed improvement on the order page when stock sync is enabled
+* Feature: Automatic update of the plugin for child sites on a regular WordPress version
+* Feature: Redesigned stock sync for multisite
+* Feature: Speed improvement on products, network products page for multisite
+* Bugfix: White screen on admin due to version check failing
+* Feature: Version check to run once every 12 hours
+* Feature: (Single Site Version) Remove license from the master site
+* Support added for Price by User Role for WooCommerce Plugin (from Tyche Software)
+* Bugfix: (Single Site Version) Resolved incompatibility with WooCommerce PDF Invoices & Packing Slips
+* Bugfix: (Single Site Version) No info text when clicking info icon on child site
+* Feature: (Multisite) If attachment doesn’t exist on the child site, recreate it
+* Feature: (Multisite) Sync stock across the network when an order is created manually from the backend
+* Feature: (Multisite) Update a product across the network, when the product is updated via a 3rd-party bulk editor
+* Bugfix: When WooCommerce is deactivated the plugin causes an error
+* Feature: Added an API to sync products for the Multisite version
+* Bugfix: Sequential order number being reset when settings being updated
+* Feature: (Single Site Version) Enable or disable synchronization of product status in settings
+* Bugfix: Grouped products from the child are not removed when they are removed from the master
+* Feature: (Single Site) Filter by site on the master and the child sites
+* Feature: (Single Site) Network orders are now sorted by the date
+* Change: (Single Site) When syncing a product for the first time and status is set to No, set the status to draft
+* Change: (Single Site) When syncing a product for the first time and product title and slug is set to No, sync those as they required to create a product, but do not sync other options
+* Feature: Hook to mark a product for sync across stores
+* Deprecated: (Single Site) Sync all metadata setting is now ignored. You can use our metadata hook to sync additional metadata.
+* Feature: (Single Site) Filter added for both the parent site and the child site to add additional metadata to sync. See our API section on the website for the hooks.
+* Feature: (Single Site) Hooks added on the network order page and also when fetching orders
+* Bugfix: (Single Site) When a product is deleted from the database but the associated order status is updated, a critical error happens
+* Feature: (Single Site) Manage all site settings/options from the master site
+* Dev: (Single Site) Improved version checking
+* Dev: (Single Site) Improved options management
+* Dev: (Single Site) Hooks for options page
+* Feature: (Single Site) Sync product order/sort order
+* Feature: (Single Site) Enable or disable the synchronization of SKU in settings
+* Feature: (Single Site) Enable or disable the synchronization of featured product status
+* Feature: (Single Site) Order export feature added
+* Bugfix: (Single Site) Sync stock correctly for variations when stock is being managed by the parent product
+* Change: The plugin is now called WooMultistore
+
+= Release 3.0.5 =
+Released: 2020-02-28
+* Bugfix: Stock does not sync correctly for variable products managing stock at variation level
+* Bugfix: Some WooCommerce add-on hiding plugin's menu
+* Bugfix: Plugin settings resetting after upgrade
+* Bugfix: Removing a site and then adding it again does not disconnect the products that have alredy been synced
+* Bugfix: Fix a rare json_encoding issue while connecting sites
+* Feature: When a product is trashed from the main site, trash it from all child sites (if enabled in settings)
+* Feature: When an order is created from the backend, update stock across the network
+* Bugfix: When products are exported from a child store and then imported back into the master store to sync with the child stores, the products are not correctly linked due to having duplicate metadata
+
+= Release 3.0.4 =
+Released: 2020-01-24
+* Bugfix: tags from master not being synced, when tags with similar names exist in the child
+* Bugfix: categories from master not being synced, when categories with similar names exist in the child
+* Bugfix: variations do not sync when variations use different slugs on the child sites
+* Bugfix: stock sync failing when initiated by the child
+* Bugfix: option to select whether to sync metadata created by 3rd party plugins
+* Bugfix: when updating products using quick edit, products are not being  marked for syncing correctly
+* Bugfix: correctly sync shipping class for product and variations
+* Bugfix: conflict with WooCommerce Admin
+* Feature: API added to check versions on child sites
+* Bugfix: some minor bug fixes
+
+= Release 3.0.3 =
+Released: 2020-01-20
+* Single Site: Updated network order interface. Now all child orders can be managed from the master site.
+* Bugfix: Price being synced despite being disabled. 
+* Bugfix: Some minor bug fixes
+
+= Release 3.0.2 =
+Released: 2020-01-12
+* Settings added to enable or disable the synchoronization of product thumbnail
+* Settings added to enable or disable the synchoronization of product images
+* Bugfix: Not reading authentication headers correctly on servers behind a reverse proxy
+* Bugfix: Product synchronization failing on Nginx servers
+* Bugfix: Hide a minor PHP e-notice error on child sites
+* Bugfix: Subdirectory being removed from URL when WordPress is installed in a subdirectory
+* Bugfix: Some minor bug fixes
+
+= Release 3.0.1 =
+Released: 2020-01-03
+* Single Site: Correctly sync product type for all products
+* Single Site: Sync upsell and cross-sell products
+* Single Site: Sync grouped products
+* Single Site: Hide master site orders from the network orders tab as these orders can already be viewed from the orders tab
+* Single Site: Minor bug fixes
+
+= Release 3.0.0 =
+Released: 2019-12-31
+* A non-multisite version of the plugin for regular WordPress installations
+
+= Release 2.1.1 =
+Released: 2019-09-03
+* Added support for grouped product synchronization
+* Added support for the synchronization of upsell and cross-sell products (Needs to be enabled in network admin settings panel)
+* Show SKU in WooCommerce network product list
+* Sync Coupons across the network (Needs to be enabled in network admin settings panel)
+* Support for large number of stores. Now the plugin can be used to sync products across hundreds of sites without server timeout issue. 
+* Shop name in bold in the bulk editor
+* Append version number to asset URL to for cache busting purpose 
+* Bugfix: When sync in progress, opening another page on the site would corrupt sync
+* Bugfix: Server timeout issue after products have synced
+* Many small improvements
+
+= Release 2.1.0 =
+Released: 2019-08-01
+* Improved Product synchronization process based on AJAX
+* Added a new hook that is fired after slave product has been updated
+* Bug fix: when deleting all parent tags at once, child tags are not being deleted
+* Bug fix for showing deleted products as linked products in the network admin area
+* Replace all HTTP links with HTTPS links pointing to our documentation
+* Bug fix for sync settings becoming unchecked when cancelling a product
+* Search by WooCommerce order ID
+* Catch error when master product has been deleted and the detached child product is being synced
+* Filter added to show parent product only on bulk editor
+* Plugin communicates over HTTPS with licensing server
+
+= Release 2.0.18 =
+Released: 2019-05-31
+* Added message when activating the license.
+* Added product import error message.
+* Added Warning when WooCommerce is not active.
+* After the activation error message, redirect the user to the plugins list page.
+* Added options to enable/disable product attributes sync.
+* Added option to Enable/Disable Syncing of Advanced Purchase Notes.
+* Added options to enable/disable URL (slug) sync.
+* Added search by SKU on the Network Admin Product page.
+* Added option to chose several specific stores to export in the order export page.
+* Updated Error Message on Activation.
+* Fix. Product tags Stop Syncing if it’s been deleted from the child store.
+* Fix. Product Image Stop Syncing if it’s been deleted from the child store.
+* Fix. Product categories Stop Syncing if it’s been deleted from the child store.
+* Fix. Repair cache on plugin update.
+* Fix. Variable Product Not Syncing When Using Product Editor.
+* Fix. Error While Trashing Products.
+* Fix. Settings showing no stores, network product showing products or list of sites.
+* Fix. Special characters bug when exporting orders from the order export page.
+
+= Release 2.0.16 =
+Released: 2019-05-08
+* Fix. Removed duplicate drop-down menu in bulk edit.
+
+= Release 2.0.15 =
+Released: 2019-05-07
+* Syncing attributes.
+* Fix. Deactivating sync upon saving a product using Woocommerce’s functions.
+* Fix. Redirecting to SSL by default without checking protocol.
+* Fix. Running data updater before activating license causes access denied.
+* Fix. Products loose sync when a new comment is created.
+* Fix. Products loose sync when updating a product via the woocmmerce rest api.
+* Fix. “Publish to” option gets unticked when a product is sold on the main website.
+
+= Release 2.0.14 =
+Released: 2019-04-14
+* Disable deactivated sites from republish/syncing.
+
+= Release 2.0.13 =
+Released: 2019-04-08
+* Remove store ID when a store is deleted.
+
+= Release 2.0.12 =
+Released: 2019-04-01
+* New option. Search global order list.
+* New global option – Republish tags – Yes or No.
+* If web host collation issue, See the count of products on network admin dashboard, but not the products. Fix.
+* Support for PHP 7.3, Clean up the code.
+
+= Release 2.0.11 =
+Released: 2019-03-22
+* New option. Select what columns to display in the global order list.
+* New global option – Republish reviews – Yes or No.
+* Display products on the network admin dashboard on servers with collation issues.
+
+= Release 2.0.10 =
+Released: 2019-03-04
+* Fix. A product loses sync when an order is made under certain conditions on the parent product site.
+
+= Release 2.0.9 =
+Released: 2019-03-02
+* Fix. Attribute not republished if deleted.
+
+= Release 2.0.8 =
+Released: 2019-02-28
+* Added images to the plugins page.
+* Fix. Customer account, viewing orders from all stores.
+
+= Release 2.0.7 =
+Released: 2019-02-05
+* Order export to CSV/XLM improvement.
+* New option. Option to not republish the product “short description”.
+* Store tabs on the global plugin options page.
+* Fix. Stock sync from child store when setting is NO.
+* Fix. Error when editing a product that is “previewed”.
+
+= Release 2.0.6 =
+Released: 2019-01-14
+* Added plugin option. Child product inherits category image and description changes.
+* Improved bulk distribution from the products quick edit, moved all bulk distribution to the quick edit page.
+* Fix. Issues when republishing product in Pending status.
+* Fix. Network products page. Products are removed only from the first blog.
+* Fix. The quick edit only displays the categories for the parent product.
+* Fix. Double entry of blog names in the network products page.
+* Fix. No distribution when displaying a child store in network products page.
+
+= Release 2.0.5 =
+Released: 2018-12-13
+* Fix. Cant bulk distribute products from page 2 on the network products page.
+* Added link to the network products page in the WordPress menu.
+* Fix. A child product with variations don’t display when sort by price.
+
+= Release 2.0.4 =
+Released: 2018-11-28
+* Fix. Unsync products on order status changes.
+
+= Release 2.0.3 =
+Released: 2018-11-15
+* Fix. Possible to republish child products in quick edit bulk distribution.
+* Fix. Event should be triggered only on product delete.
+* Fix. Products are not displayed on the main network products page.
+* Clear cache before product republishing.
+* Product loses its metadata sync with the parent product
+* Possible to make a child product a parent product when the parent product is deleted.
+
+= Release 2.0.2 =
+Released: 2018-11-02
+* Fix. Stock not updated at other child sites
+
+= Release 2.0.1 =
+Released: 2018-10-31
+* Fix. The plugin updater stops.
+* Fix. Products for all stores are not displayed on the main products page.
+* Fix. Bulk products distribution on Network Products page.
+
+= Release 2.0 =
+Released: 2018-10-29
+* Major overall update, server usage optimization.
+* Fix. Heavy load fix.
+
+= Release 1.9.7 =
+Released: 2018-06-30
+* New option, option to not inherit variations
+* Server resource usage improvement.
+* Fix. Hebrew language in the order export file.
+* Make it optional to display info from all stores in a user account.
+
+= Release 1.9.6 =
+Released: 2018-05-25
+* Added plugin option to not sync product description across stores.
+* Fix. Network Product page fields are not displayed when bulk edit.
+
+= Release 1.9.5 =
+Released: 2018-05-21
+* Fix. Checkboxes should stay enabled in the Multistore tab
+
+= Release 1.9.4 =
+Released: 2018-05-18
+* Display user info/orders from all stores in the user account regardless what store the user is logged in to.
+
+= Release 1.9.3 =
+Released: 2018-05-10
+* Fix. Set get_site limit to 999.
+
+= Release 1.9.2 =
+Released: 2018-05-09
+* Fix. Network order action buttons don’t work.
+
+= Release 1.9.1 =
+Released: 2018-04-13
+* Remove the republishing of the number of reviews.
+* Fix. Update “orders per page” number on the network orders page.
+* Fix. Remove child product “Uncategorized” category on parent product is created or updated.
+
+= Release 1.9.0 =
+Released: 2018-03-12
+* Add handling imports
+* Style the network order view as the individual WooCommerce order screen
+* Introduce Woo filters for product updates to catch changes which may be caused by other plugins or themes that modify products or stock levels.
+* Refactor `WC_Multistore_Functions::woocommerce_reduce_order_stock`, adding a helper function for re-usability of stock management.
+* Fix – Show titles in the network admin product listing
+
+= Release 1.8.8 =
+Released: 2017-11-15
+* JavaScript error fix: WooCommerce quick edit undefined
+
+= Release 1.8.7 =
+Released: 2017-06-19
+* Fields control for categories
+
+= Release 1.8.6 =
+Released: 2017-06-16
+* Use stripslashes for terms when compare with existing to avoid wrong comparison when include quotes
+
+= Release 1.8.5 =
+Released: 2017-06-15
+* Add _price to meta fields ignore if “Child product inherit price changes” is set to No
+* $ignore_meta_fields adjustments, ignoring for new products
+
+= Release 1.8.4 =
+Released: 2017-06-09
+* Implement anonymous object filter replacement
+* Fix – Child product inherit Parent products changes – Fields control – Price fix
+
+= Release 1.8.3 =
+Released: 2017-06-01
+* Use trailingslashit for term names when compare and create to avoid chars strip out
+
+= Release 1.8.2 =
+Released: 2017-05-29
+* Set the latest version to plugin option to ensure the latest tag is being used along the code
+* Fix: Setup Wizard notices
+* Fix: Setup Wizard processing complete JavaScript engine
+
+= Release 1.8.1 =
+Released: 2017-05-24
+* Fix: Child product inherit Parent products changes – Price ignore
+
+= Release 1.8.0 =
+Released: 2017-05-24
+* Fix: Sequential order number listing
+
+= Release 1.7.9 =
+Released: 2017-05-19
+* “Toggle all Sites” trigger for quick edit, bulk edit, bulk distribution
+
+= Release 1.7.8 =
+Released: 2017-05-18
+* Remove check for plugin being active on a site since it’s network active now.
+* Use include_once instead include to avoid fatal error for classes already defined
+* Check for $WOO_MSTORE class if already initialized
+
+= Release 1.7.7 =
+Released: 2017-05-06
+* Replaced the WC()->plugin_url() with dynamic URL to ensure no fatal is being triggered when class not available.
+* Fix: Using $this when not in object context when calling is_plugin_active()
+
+= Release 1.7.6 =
+Released: 2017-05-05
+* Fix WOO_MSTORE_VERSION not being used the latest tag version
+
+= Release 1.7.5 =
+Released: 2017-05-02
+* Required to be activated through network admin interface
+* Ignore any site where WooCommerce is not active
+
+= Release 1.7.3 =
+Released: 2017-05-01
+* Fix checkbox for trash
+
+= Release 1.7.2 =
+Released: 2017-04-13
+* Improve bulk distribution functionality
+
+= Release 1.7 =
+Released: 2017-04-07
+* WooCommerce 3.0 Compatibility
+* Ensure attributes terms are not checked for parent_id since they are not hierarchical. This maintains compatibility with older data structure without break.
+* Updated export engine for WooCommerce 3.0 compatibility
+* Updated PHPExcel to 1.8.1
+
+= Release 1.6.4 =
+Released: 2017-03-17
+* Fix: Network Products quick and bulk edit
+
+= Release 1.6.3 =
+Released: 2017-03-16
+* Collation unify for tables when using Union
+* Fix – Illegal mix of collations for operation ‘UNION’ for query
+
+= Release 1.6.2 =
+Released: 2017-03-08
+* Network Products – sort by Date
+
+= Release 1.6.1 =
+Released: 2017-03-02
+* Fix: Fixed Update Box notice keep showing after update complete.
+
+= Release 1.6 =
+Released: 2017-02-28
+* Child product inherit title changes / Child product inherit price changes setting for each blog
+* Allow meta fields ignore
+
+= Release 1.5.9 =
+Released: 2017-02-23
+* Case insensitive comparison when check for existing term name
+* Stock synchronize functionality when using in-line/AJAX Variation save
+* Child product inherit Parent products changes functionality when using in-line(AJAX) Variation update
+
+= Release 1.5.7 =
+Released: 2017-02-19
+* Compare against _woonet_child_inherit_updates too for stock synchronization
+
+= Release 1.5.5 =
+Released: 2017-02-11
+* Fix: Term re-name update on child product too
+
+= Release 1.5.4 =
+Released: 2017-02-08
+* Fix : Undefined variable: _woonet_child_stock_synchronize
+* Fix: save_post_product unused filter remove
+
+= Release 1.5.3 =
+Released: 2017-02-06
+* Fix: Quick editing a product attribute:trigger a JavaScript error.
+
+= Release 1.5.2 =
+Released: 2017-02-06
+* Fix – before_delete_post restore default blog_id before method exit
+* Fix – delete child product variations
+
+= Release 1.5.1 =
+Released: 2017-02-04
+* Fix variations synchronize
+* Updater engine to run certain routines at specific code versions for updating data.
+
+= Release 1.5 =
+Released: 2017-01-18
+* Fix: Term name comparison using (string) and trim to avoid issues when term names include empty spaces
+
+= Release 1.4.9 =
+Released: 2017-01-09
+* fix – $columnshidden option set as default array if empty
+
+= Release 1.4.8 =
+Released: 2016-11-15
+* UTF8 Encoding fix for Orders export
+
+= Release 1.4.7 =
+Released: 2016-11-14
+* Taxonomies terms mapping array, switch to old format accessing instead direct (current)
+* Orders Export functionality, in CSV and XLS
+– Orders Export – Date Range
+– Orders Export – Site Filtering
+– Orders Export – Order Status
+
+= Release 1.4.5 =
+Released: 2016-11-03
+* Stock network update when changing on child product and “Always maintain stock synchronization” setting set to Yes.
+
+= Release 1.4.4 =
+Released: 2016-10-25
+* Fix – Category structure migration to child product
+
+= Release 1.4.3 =
+Released: 2016-10-04
+* Fix: Large taxonomy terms hierarchy replicate for child products.
+
+= Release 1.4.2 =
+Released: 2016-08-25
+* Create Image Mapping when publish to other blogs to prevent re-processing on product update.
+* New setting – Minimum user role to allow MultiStore Publish.
+
+= Release 1.3.9.2 =
+Released: 2016-08-18
+* WordPress 4.6 compatibility updates Fix Notice: wp_get_sites is deprecated since version 4.6.0! Use get_sites() instead
+
+= Release 1.3.9 =
+Released: 2016-08-11
+* Always maintain stock synchronization for re-published products.
+* Update – Stock synchronization only trigger when WooCommerce Manage Stock option is available for the site where main product is published.
+* Stock synchronize for every child product Reference stock is parsed from main product.
+* _woonet_title fix, heading are not being saved as custom fields.
+* Hide MultiSite Publish To options when using Bulk edit and at least one product is child of a tree.
+* PO language file update Text change for warning message.
+
+= Release 1.3.8 =
+Released: 2016-08-08
+* Adding categories in network product listing.
+* Add warning when unassign a product from the tree Unassigned product is reinstate if the site is being checked again on main product Unassigned product can be set a master product.
+
+= Release 1.3.6 =
+Released: 2016-07-26
+* Fix for Database tables prefix replaced with base_prefix.
+
+= Release 1.3.5 =
+Released: 2016-07-18
+* FIx: Sequential Order Number increase fix across network.
+
+= Release 1.3.5 =
+Released: 2016-07-01
+* Update Short Description and Comment Status for all child products which inherit the master product changes.
+
+= Release 1.3.3 =
+Released: 2016-06-07
+* Plugin option for Mainitain stock synchronization for re-published products, when checkout.
+* Fox meta data to be saved and include empty (zero) value.
+
+= Release 1.3.1 =
+Released: 2016-05-30
+* Sequential order numbers.
+* Code and DB Updater Engine.
+* Add settings infrastructure; sequential Order Numbers.
+
+= Release 1.2.6 =
+Released: 2016-04-07
+* Add bulk editor and inline editor within superadmin WooCommerce Products interface.
+
+= Release 1.2.5 =
+Released: 2016-04-01
+* Add Multisite Options within Quick Edit.
+
+= Release 1.2.4 =
+Released: 2016-02-19
+* Updated translation po file.
+* Network Orders admin icons link fix (mark completed, mark processing).
+* On Admin Main Product – Toggle all Sites.
+* Fix: Products duplicated item within dashboard menu.
+
+= Release 1.1.9 =
+Released: 2016-02-13
+* Globall setting within main product to allow all child to inherit updates or not _woonet_child_products_inherit_updates Post status change also modify the childs if update inherit Post trash / untrash if update inherit.
+
+= Release 1.1.8 =
+Released: 2016-02-11
+* wp_get_sites limit increase to 999 sites.
+
+= Release 1.1.7 =
+Released: 2016-01-25
+* Fix: The title and description of products in children stores are not updated even if the checkbox is checked in the children store.
+
+= Release 1.1.6 =
+Released: 2016-01-20
+* Update wizard to add required meta for products, to match the required format.
+
+
+[See changelog on our site](https://woomultistore.com/changelog-2/).

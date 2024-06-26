@@ -1,0 +1,17 @@
+# This file was updated by Duplicator Pro on 2023-12-12 05:56:22.
+# See the original_files_ folder for the original source_site_htaccess file.
+# BEGIN WordPress (3.5+ Multisite Subdomain)
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+
+# add a trailing slash to /wp-admin
+RewriteRule ^wp-admin$ wp-admin/ [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+RewriteRule ^(wp-(content|admin|includes).*) $1 [L]
+RewriteRule ^(.*\.php)$ $1 [L]
+RewriteRule . index.php [L]
+# END WordPress
